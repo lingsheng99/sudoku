@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Sudoku AR Support or Contact
 
-You can use the [editor on GitHub](https://github.com/lingsheng99/sudoku/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+If you have any questions,please contact with us use zhuxianlong1979@gmail.com,and we’ll help you sort it out.thanks a lot.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### App Feature
 
-### Markdown
+Sudoku AR  can scan a sudoku ,then give a solution instantly!<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Features:<br>
 
-```markdown
-Syntax highlighted code block
+• Solve Sudoku puzzles in real time, instantly!<br>
+• Scan multiple puzzles in a row!<br>
+• Remove a scanned puzzle by simply tapping the puzzle on your screen<br>
+• Solve as many puzzles as you like<br>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lingsheng99/sudoku/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<br>
